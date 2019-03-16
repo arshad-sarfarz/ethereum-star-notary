@@ -3,9 +3,9 @@
 ## Introduction
 Solidity Smart Contracts using ERC 721 Non fungible tokes for storing star information on Ethereum
 
-ERC-721 Token Name: Astrea
-ERC-721 Token Symbol: AST
-Token Address on the Rinkeby Network: 0xB44c8f3Dc056900434557CF70Cb3256c76454F5f
+ERC-721 Token Name: "Astrea"
+ERC-721 Token Symbol: "AST"
+Token Address on the Rinkeby Network: "0xB44c8f3Dc056900434557CF70Cb3256c76454F5f"
 Truffle version: V5.0.6 (Core: 5.0.6)
 Solc version: 0.5.2
 OpenZeppelin version:2.2.0
@@ -14,8 +14,8 @@ OpenZeppelin version:2.2.0
 ## Additional Information
 
 Currently on star has been created on Rinkeby network with the following details
-Star Name: Sirius
-Star Id: 101
+Star Name: "Sirius"
+Star Id: "101"
 
 A new Star can be created on Ethereum by providing the Star Name and Star Id. The Star Id needs to be unique.
 
